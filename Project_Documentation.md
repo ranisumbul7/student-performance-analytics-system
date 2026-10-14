@@ -193,3 +193,9 @@ The system is simple, reusable, and can be extended in the future with additiona
 
 **GitHub Repository:**
 To be added after uploading the project to GitHub.
+
+GitHub Repository
+
+Repository Name: Student Performance Analytics System
+
+GitHub Link: https://github.com/ranisumbul7/student-performance-analytics-system
